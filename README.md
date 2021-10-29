@@ -17,6 +17,6 @@
 * Blogging
 
 ### Connect with me in - 
-[![Linkedin Badge](https://img.shields.io/badge/-SOORAJ-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soorajece1993/)](https://www.linkedin.com/in/amal-ajay/)
-[![Medium Badge](https://img.shields.io/badge/-SOORAJ-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://soorajsknair.medium.com/)](https://amalaj7.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-SOORAJ-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amalsaga@gmail.com)](mailto:soorajece1993@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-SOORAJ-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soorajece1993/)](https://www.linkedin.com/in/soorajece1993/)
+[![Medium Badge](https://img.shields.io/badge/-SOORAJ-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://soorajsknair.medium.com/)](https://soorajsknair.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-SOORAJ-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:soorajece1993@gmail.com)](mailto:soorajece1993@gmail.com)
