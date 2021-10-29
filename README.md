@@ -3,6 +3,7 @@
 
 ### I have technical experience and interest in -
 * Machine Learning
+* Internet of Things - IOT
 * Deep Learning
 * Computer vision 
 * Natural language Processing
